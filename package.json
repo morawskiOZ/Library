@@ -1,0 +1,15 @@
+{
+  "name": "mylibrary",
+  "version": "1.0.0",
+  "description": "All useful stuff in one place",
+  "main": "index.js",
+  "scripts": {
+    "test": "true"
+  },
+  "keywords": [
+    "helpers",
+    "library"
+  ],
+  "author": "Piotr Morawski",
+  "license": "MIT"
+}
