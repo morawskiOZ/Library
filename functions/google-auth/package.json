@@ -1,0 +1,19 @@
+{
+  "name": "google-auth",
+  "version": "1.0.0",
+  "description": "",
+  "main": "google-auth.ts",
+  "scripts": {
+    "test": "true"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "google-auth-library": "^7.0.2",
+    "googleapis": "^67.1.1",
+    "http": "0.0.1-security",
+    "open": "^8.0.2",
+    "server-destroy": "^1.0.1",
+    "url": "^0.11.0"
+  }
+}
